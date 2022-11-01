@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagatharsh&show_icons=true&locale=en" alt="bhagatharsh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagatharsh&" alt="bhagatharsh" /></p>
+
+[![@bhagatharsh's Holopin board](https://holopin.me/bhagatharsh)](https://holopin.io/@bhagatharsh)
+
