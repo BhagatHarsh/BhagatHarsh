@@ -2,9 +2,7 @@
 
 <h3 align="center">A passionate developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagatharsh&label=Profile%20views&color=0e75b6&style=flat" alt="bhagatharsh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhagatharsh" alt="bhagatharsh" /></a> </p>
 
 - 🔭 I’m currently working on [personalPlanner](https://github.com/BhagatHarsh/personalPlanner)
 
@@ -36,4 +34,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagatharsh&" alt="bhagatharsh" /></p>
 
 [![@bhagatharsh's Holopin board](https://holopin.me/bhagatharsh)](https://holopin.io/@bhagatharsh)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagatharsh&label=Profile%20views&color=0e75b6&style=flat" alt="bhagatharsh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhagatharsh" alt="bhagatharsh" /></a> </p>
 
