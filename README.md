@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [personalPlanner](https://github.com/BhagatHarsh/personalPlanner)
 
-- 🌱 I’m currently learning **ReactJs and Django**
+- 🌱 I’m currently learning **Flutter and Web**
 
 - 💬 Ask me about **Competitive Programming, Python, Flutter, WebDev**
 
