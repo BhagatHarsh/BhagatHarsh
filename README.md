@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Bhagat</h1>
 
-<h3 align="center">Jack of all traits master of GPT</h3>
+<h3 align="center">Jack of all traits master of chatGPT</h3>
 
 
 
