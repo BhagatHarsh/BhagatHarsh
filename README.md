@@ -20,17 +20,18 @@ class Attributes(HarshBhagat):
     def life() -> tuple:
         langs = ['English', 'Hindi', 'Gujarati']
         age   = 20
-        return langs, age
+        spotify = r"https://open.spotify.com/playlist/2ycLp3SB2fjP8qJBe9UThp?si=298a42eba6354c84"
+        return langs, age, spotify
 
     @staticmethod
     def coding() -> tuple:
         langs = {
-            'expert':   ['python'],
-            'intermediate': ['flutter', 'webdev'],
-            'learning': ['competitive programming']
+            'expert':   ['Python', 'JavaScript', 'C++'],
+            'intermediate': ['Node/Express', 'Flutter'],
+            'learning': ['ReactJS', 'Competitive Programming']
         }
-        specialities  = ['competitive programming', 'python', 'flutter', 'webdev']
-        environnement = ['vscode']
+        specialities  = ['Backend/NodeJS', 'Python/Scripting/Automation']
+        environnement = ['vscode', 'Replit', 'nano']
         return langs, specialities, environnement
 ```
 
