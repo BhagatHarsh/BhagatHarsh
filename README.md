@@ -19,7 +19,7 @@ class Attributes(HarshBhagat):
     @staticmethod
     def life() -> tuple:
         langs = ['English', 'Hindi', 'Gujarati']
-        age   = 20
+        age   = 21
         spotify = r"https://open.spotify.com/playlist/2ycLp3SB2fjP8qJBe9UThp?si=298a42eba6354c84"
         return langs, age, spotify
 
